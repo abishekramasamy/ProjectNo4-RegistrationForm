@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55567" started-at="2023-12-21T11:45:30Z" finished-at="2023-12-21T11:46:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55567" started-at="2023-12-21T11:45:30Z" finished-at="2023-12-21T11:46:26Z">
+      <class name="org.project4.Form">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.project4.Form@7e0ea639]" name="tc01" is-config="true" duration-ms="46506" started-at="2023-12-21T17:15:30Z" finished-at="2023-12-21T17:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.project4.Form@7e0ea639]" name="tc02" duration-ms="8756" started-at="2023-12-21T17:16:17Z" finished-at="2023-12-21T17:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.project4.Form@7e0ea639]" name="tc03" is-config="true" duration-ms="0" started-at="2023-12-21T17:16:26Z" finished-at="2023-12-21T17:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+      </class> <!-- org.project4.Form -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
